@@ -1,0 +1,1 @@
+Run crawler.php to crawl through url and other urls in it as  per depth defined and then run search.php to search strings based on specific functions.You will see necessary details on front end. I have choosen github as default url to be crawled
